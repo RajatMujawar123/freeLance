@@ -22,6 +22,28 @@
         "hourly_rate": 30,
         "profile_picture": "profile2.jpg",
               "isBooked" : true
+      },
+      {
+        "id": 3,
+        "name": "Rane Smith",
+        "email": "rane@example.com",
+        "password": "password",
+        "profession": "Graphic Designer",
+        "skills": ["Photoshop", "Illustrator"],
+        "hourly_rate": 40,
+        "profile_picture": "profile2.jpg",
+              "isBooked" : true
+      },
+      {
+        "id": 4,
+        "name": "Wane Smith",
+        "email": "wane@example.com",
+        "password": "password",
+        "profession": "Graphic Designer",
+        "skills": ["Photoshop", "Illustrator"],
+        "hourly_rate": 35,
+        "profile_picture": "profile2.jpg",
+              "isBooked" : true
       }
     ]
   }
